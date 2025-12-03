@@ -1,5 +1,5 @@
 [project]
-name = "website-template"
+name = "fullstack-template"
 version = "0.1.0"
 description = "A template so I can build my fullstack apps"
 readme = "README.md"
